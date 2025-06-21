@@ -1,9 +1,0 @@
-RodHammer Password Manager 
-========================= 
- 
-Instrucciones: 
-1. Ejecutar "Iniciar.bat" para usar el programa 
-2. Los datos se guardan en "color.bin" en esta misma carpeta 
-3. Copiar toda la carpeta para usar en otro equipo 
- 
-Soporte: rodhammer.forge@proton.me 
